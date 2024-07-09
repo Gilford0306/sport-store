@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'Inter';
+  src: local('Jura'), url(../fonts/Inter-VariableFont_slnt\,wght.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.middle-section {
+  background-color: #28292D;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.middle-section h2 {
+
+  margin: 0;
+  font-family: Inter;
+font-size: 120px;
+font-weight: 900;
+line-height: 154.91px;
+text-align: center;
+
+}
+
+.middle-section p {
+  margin: 10px 0 30px;
+  font-family: Inter;
+font-size: 64px;
+font-weight: 100;
+line-height: 77.45px;
+text-align: center;
+
+}
+
+.images-container {
+
+  display:flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.image-box {
+  text-align: center;
+}
+
+
+.image-box img {
+  width: 488px;
+  height: 700px;
+  border-radius: 10px;
+}
+
+.image-box p {
+  position: relative; /* Абсолютное позиционирование */
+  top: -150px; /* Отступ сверху */
+  left: 50px; /* Отступ слева */
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 38.73px;
+text-align: left;
+color:  #FFFFFF;
+
+}
+
+#image-button1 {
+  position: relative;
+  width: 138px;
+  height: 27px;
+  top: -150px; /* Отступ сверху */
+  left: -130px; /* Отступ слева */
+}
+
+#image-button2 {
+  position: relative;
+  width: 138px;
+  height: 27px;
+  top: -150px; /* Отступ сверху */
+  left: -130px; /* Отступ слева */
+}
+
+#image-button3 {
+  position: relative;
+  width: 138px;
+  height: 27px;
+  top: -150px; /* Отступ сверху */
+  left: -130px; /* Отступ слева */
+}
+
+.shop-button-middle{
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+  cursor: pointer;
+  position: relative;
+  width: 138px;
+  height: 30px;
+  top: -150px; /* Отступ сверху */
+  left: -130px; /* Отступ слева */
+}
