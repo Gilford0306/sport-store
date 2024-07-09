@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sport-store/static/css/main.fd22c6be.css",
+    "main.js": "/sport-store/static/js/main.77b14e1f.js",
+    "static/js/488.cb216853.chunk.js": "/sport-store/static/js/488.cb216853.chunk.js",
+    "static/media/cyclist.png": "/sport-store/static/media/cyclist.78023e6e1fd753d9dfca.png",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/sport-store/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
+    "static/media/Accessories.jpg": "/sport-store/static/media/Accessories.cf1d0a43ab12bca5567f.jpg",
+    "static/media/Footwear.jpg": "/sport-store/static/media/Footwear.9cbc654c1683aa4c3ece.jpg",
+    "static/media/Jura-VariableFont_wght.ttf": "/sport-store/static/media/Jura-VariableFont_wght.f4ba69633efd54401550.ttf",
+    "static/media/Clothing.jpg": "/sport-store/static/media/Clothing.4d04e96ac0bbf3897429.jpg",
+    "static/media/Vector 1.png": "/sport-store/static/media/Vector 1.497746c6124acefd677e.png",
+    "index.html": "/sport-store/index.html",
+    "main.fd22c6be.css.map": "/sport-store/static/css/main.fd22c6be.css.map",
+    "main.77b14e1f.js.map": "/sport-store/static/js/main.77b14e1f.js.map",
+    "488.cb216853.chunk.js.map": "/sport-store/static/js/488.cb216853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd22c6be.css",
+    "static/js/main.77b14e1f.js"
+  ]
+}
